@@ -1,0 +1,9 @@
+
+PATH:
+  DATASET_DIR: 'dataset/'
+  PKL_PATH: 'dataset/database.pkl'
+
+INFO:
+  PICTURE_PROMPT: "Upload a picture to recognize faces"
+  WEBCAM_PROMPT: "Using webcam to recognize faces"
+  VIDEO_PROMPT: "Upload a video to recognize faces"
